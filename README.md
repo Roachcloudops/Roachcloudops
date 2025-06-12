@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-Cloud DevOps Engineer | Kubernetes Specialist | IaC Engineer  
-**9+ years** building, automating, and securing cloud-native infrastructure.  
-Skilled in all popular DevOps, Kubernetes, monitoring, and containerization tools.
+Cloud DevOps Engineer | Kubernetes Specialist | IaC Engineer 
+
+**9+ years** building, automating, and securing cloud-native infrastructure.Skilled in all popular DevOps, Kubernetes, monitoring, and containerization tools.
 
 ---
 
