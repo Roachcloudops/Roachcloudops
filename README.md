@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Cloud DevOps Engineer | Kubernetes Specialist | IaC Engineer 
+Cloud DevSecOps Engineer | Kubernetes Specialist | IaC Engineer 
 
 **9+ years** building, automating, and securing cloud-native infrastructure.Skilled in all popular DevOps, Kubernetes, monitoring, and containerization tools.
 
@@ -37,6 +37,15 @@ Cloud DevOps Engineer | Kubernetes Specialist | IaC Engineer
 
 [![CKA: Certified Kubernetes Administrator](https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.cncf.io/certification/cka/)
 
+[![CKS: Certified Kubernetes Security Specialist](https://img.shields.io/badge/CKS-Certified%20Kubernetes%20Security%20Specialist-6A1B9A?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.cncf.io/certification/cks/)
+
+[![CKAD: Certified Kubernetes Application Developer](https://img.shields.io/badge/CKAD-Certified%20Kubernetes%20Application%20Developer-2E7D32?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.cncf.io/certification/ckad/)
+
+[![KCNA: Kubernetes and Cloud Native Associate](https://img.shields.io/badge/KCNA-Kubernetes%20and%20Cloud%20Native%20Associate-FF6F00?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.cncf.io/certification/kcna/)
+
+[![KCSA: Kubernetes and Cloud Native Security Associate](https://img.shields.io/badge/KCSA-Kubernetes%20and%20Cloud%20Native%20Security%20Associate-D32F2F?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.cncf.io/certification/kcsa/)
+
+
 ---
 
 ## 📈 GitHub Stats
@@ -69,31 +78,12 @@ Cloud DevOps Engineer | Kubernetes Specialist | IaC Engineer
 
 ---
 
-### [Cloud Resume Challenge (Multi-Cloud) 🌐](https://github.com/yourusername/cloud-resume-challenge)
-- Cloud-hosted resume with CI/CD, deployed to AWS & GCP using IaC.
-- **Tech:** AWS S3, GCP Storage, Terraform, GitHub Actions, CloudFront
-- **Highlight:** Full DevOps stack: IaC, pipelines, monitoring, cost control.
-
 ---
 
 ### [K8s Chaos Toolkit Demo – Kubernetes Resilience Testing](https://github.com/yourusername/k8s-chaos-toolkit-demo)
 - Chaos engineering demo using Litmus/Chaos Mesh on Kubernetes microservices.
 - **Tech:** Litmus, Kubernetes, Prometheus, Grafana
 - **Highlight:** Built-in dashboards, Slack alerts.
-
----
-
-### [DevOps Bootcamp Lab – End-to-End Learning Lab for DevOps](https://github.com/yourusername/devops-bootcamp-lab)
-- Hands-on lab with modules for Docker, Kubernetes, Jenkins, Prometheus, GitOps, Service Mesh.
-- **Tech:** Bash, Docker, Minikube, Jenkins, Istio, Prometheus
-- **Highlight:** Ideal for demos and training workshops.
-
----
-
-### [GCP Serverless Platform Demo – Cloud-Native Event-Driven Apps](https://github.com/yourusername/gcp-serverless-demo)
-- Demonstrates modern serverless workloads using Cloud Run, Cloud Functions, Pub/Sub, CloudSQL, BigQuery, and Cloud Storage.
-- **Tech:** GCP Load Balancer, CloudSQL, Cloud Run, Cloud Functions, Pub/Sub, BigQuery, Cloud Storage, **Cloud Build (CI/CD)**
-- **Highlight:** End-to-end CI/CD with Cloud Build automating deployments to Cloud Run; other managed services are seamlessly integrated in a DevOps workflow for real-time data, event processing, and analytics dashboards.
 
 ---
 
