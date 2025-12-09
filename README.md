@@ -6,6 +6,10 @@ Cloud DevSecOps Engineer | Kubernetes Specialist | IaC Engineer
 
 **9+ years** building, automating, and securing cloud-native infrastructure.Skilled in all popular DevOps, Kubernetes, monitoring, and containerization tools.
 
+## 📜 Tech Inspired Quote
+> "Automation is good, so long as you know exactly what you want it to do."  
+> — Rob Pike, Go language co-creator
+
 ---
 
 ## 🛠️ Skills & Toolset
@@ -87,11 +91,6 @@ Cloud DevSecOps Engineer | Kubernetes Specialist | IaC Engineer
 
 ---
 
-## 📜 Quote (Tech-Inspired)
-> "Automation is good, so long as you know exactly what you want it to do."  
-> — Rob Pike, Go language co-creator
-
----
 
 <!--
 **Roachcloudops/Roachcloudops** is a ✨ _special_ ✨ repository because its `README.md` appears on your profile!
